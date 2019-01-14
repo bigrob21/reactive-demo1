@@ -22,6 +22,6 @@ public class MessagePayload {
 		super();
 		this.id = id;
 		this.message = message;
-	};
+	}
 	
 }
